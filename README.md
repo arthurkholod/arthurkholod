@@ -1,10 +1,19 @@
-## Что я использую
+## Что использую
 
-**Языки и инструменты**  
-`SQL` `Excel` `Jira` `Jupyter` `MLflow` `Google Sheets`
+### Анализ данных и SQL
+- SQL (опыт работы с базами данных)
+- Excel (уверенное владение)
+- Google Sheets
+- Python (pandas, numpy — изучаю)
 
-**Сейчас изучаю**  
-`Python` (pandas, numpy) для анализа данных
+### Визуализация
+- Matplotlib / Seaborn (изучаю)
+- Power BI (базовое понимание)
+
+### Инструменты для ML и тестирования
+- Jupyter
+- MLflow
+- Jira
 
 ---
 
